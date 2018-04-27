@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background: url(https://pixabay.com/static/uploads/photo/2016/02/24/15/08/desk-1220056_960_720.jpg)no-repeat center center;
+  background: url(./background_desk.jpg)no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
